@@ -1,0 +1,12 @@
+const pessoas = [
+    { nome: "Alice", cidade: "Içara/SC" },
+    { nome: "Bob", cidade: "Criciúma/SC" },
+    { nome: "Carlos", cidade: "São Paulo/SP" },
+    { nome: "Diana", cidade: "Rio de Janeiro/RJ" },
+    { nome: "Eduardo", cidade: "Porto Alegre/RS" },
+    { nome: "Fernanda", cidade: "Curitiba/PR" },
+    { nome: "Gabriel", cidade: "Belo Horizonte/MG" },
+    { nome: "Helena", cidade: "Salvador/BA" },
+    { nome: "Isaac", cidade: "Recife/PE" },
+    { nome: "Julia", cidade: "Fortaleza/CE" }
+  ];
